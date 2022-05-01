@@ -1,0 +1,29 @@
+h1 {
+	font-family: Luminari, fantasy;
+	color: #FFC8C6;
+	text-shadow: 0 0 10px brown;
+	text-align: center;
+}
+body {
+	background-color: #AFB6EE;
+	text-align: center;
+}
+p {
+	font-family: Bradley Hand, cursive;
+	color: #D7EEAF;
+	text-shadow: 0 0 10px brown;
+}
+.mainp {
+	color: #D0AFEE;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.info {
+    border: white 2px solid;
+    margin: auto;
+    margin-top: 70px;
+    width: 280px;
+    color: white;
+    font-family: Bradley,cursive;
+    box-shadow: 0 0 10px white;
+}
